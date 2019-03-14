@@ -1,0 +1,25 @@
+Sector,Adjusted,Description
+11,11,"Agriculture, forestry, fishing and hunting"
+21,21,Mining / O&G
+22,22,Utilities
+23,23,Construction
+31,31,Manufacturing
+32,31,Manufacturing
+33,31,Manufacturing
+42,42,Wholesale trade
+44,44,Retail trade
+45,44,Retail trade
+48,48,Transportation and warehousing
+49,48,Transportation and warehousing
+51,51,Information
+52,52,Finance and insurance
+53,53,Real estate and rental and leasing
+54,54,"Professional, scientific, and technical services"
+55,55,Management of companies and enterprises
+56,56,Admin/support/waste mgmt/remediation services
+61,61,Educational services
+62,62,Health care and social assistance
+71,71,"Arts, entertainment, and recreation"
+72,72,Accommodation and food services
+81,81,Other services (except public admin)
+92,92,Public administration
